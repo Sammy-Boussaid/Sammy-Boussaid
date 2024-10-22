@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sammy-Boussaid
+- 👋 Hi, I’m @Sammy Boussaid
 - 👀 I’m interested in probability and statistics
-- 🌱 I’m currently learning python
+- 🌱 I’m currently improving my coding skills
 - 💞️ I’m looking to collaborate on fun projects involving time series analysis
 - 📫 How to reach me: send me a message on here
 
